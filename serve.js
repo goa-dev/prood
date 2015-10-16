@@ -10,6 +10,15 @@ var markdown = require('metalsmith-markdown');
 var collections = require('metalsmith-collections');
 var excerpts = require('metalsmith-excerpts');
 var permalinks = require('metalsmith-permalinks');
+var autoprefixer = require('metalsmith-autoprefixer');
+var postcss = require('metalsmith-postcss');
+var fingerprint = require('metalsmith-fingerprint');
+var ignore = require('metalsmith-ignore');
+var concat = require('metalsmith-concat');
+
+var plugins = [
+]
+var supported = {browsers: ['> 1%', 'last 2 versions', 'IE >= 9']}
 
 /**
  * Build
@@ -17,22 +26,41 @@ var permalinks = require('metalsmith-permalinks');
 metalsmith(__dirname)
   .source('./src')
   .destination('./build')
+
+  .use(concat({
+      files: '**/*.css',
+      output: 'css/build.css'
+    })
+  )
+  .use(autoprefixer(supported))
+  .use(postcss(plugins))
+  .use(fingerprint({pattern: ['css/build.css']}))
+  .use(ignore(['css/build.css']))
+
+  .use(concat({
+      files: '**/*.js',
+      output: 'js/build.js'
+    })
+  )
+  .use(fingerprint({pattern: ['js/build.js']}))
+  .use(ignore(['js/build.js']))
+
   .use(markdown())
   .use(excerpts())
   .use(collections({
     posts: {
-      pattern: 'posts/**.html',
+      pattern: 'posts/**/**.html',
       sortBy: 'publishDate',
       reverse: true
     }
   }))
-  .use(branch('posts/**.html')
+  .use(branch('posts/**/**.html')
       .use(permalinks({
         pattern: 'posts/:title',
         relative: false
       }))
   )
-  .use(branch('!posts/**.html')
+  .use(branch('!posts/**/**.html')
       .use(branch('!index.md').use(permalinks({
         relative: false
       })))
