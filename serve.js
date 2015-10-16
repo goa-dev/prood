@@ -4,7 +4,6 @@
 var branch = require('metalsmith-branch');
 var templates = require('metalsmith-templates');
 var metalsmith = require('metalsmith');
-var rename = require('metalsmith-rename');
 var serve = require('metalsmith-serve');
 var markdown = require('metalsmith-markdown');
 var collections = require('metalsmith-collections');
@@ -15,6 +14,8 @@ var postcss = require('metalsmith-postcss');
 var fingerprint = require('metalsmith-fingerprint');
 var ignore = require('metalsmith-ignore');
 var concat = require('metalsmith-concat');
+var copy = require('metalsmith-copy');
+var path = require('path');
 
 var plugins = [
 ]
@@ -27,6 +28,7 @@ metalsmith(__dirname)
   .source('./src')
   .destination('./build')
 
+  // CSS
   .use(concat({
       files: '**/*.css',
       output: 'css/build.css'
@@ -37,6 +39,7 @@ metalsmith(__dirname)
   .use(fingerprint({pattern: ['css/build.css']}))
   .use(ignore(['css/build.css']))
 
+  // JS
   .use(concat({
       files: '**/*.js',
       output: 'js/build.js'
@@ -44,6 +47,15 @@ metalsmith(__dirname)
   )
   .use(fingerprint({pattern: ['js/build.js']}))
   .use(ignore(['js/build.js']))
+
+  // IMG
+  .use(copy({
+      pattern: '**/*.png',
+      transform: function(file) {
+        return path.join('./build', file)
+      }
+    })
+  )
 
   .use(markdown())
   .use(excerpts())

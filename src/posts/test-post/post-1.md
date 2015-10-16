@@ -8,3 +8,5 @@ template: post.jade
 Here is a content for our test post, folks.
 
 And another paragraph
+
+![Cat](cat.png)
