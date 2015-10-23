@@ -1,5 +1,5 @@
 {
-  "name": "static-site-example",
+  "name": "prood",
   "private": true,
   "dependencies": {
     "jade": "^1.11.0",
