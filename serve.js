@@ -13,6 +13,7 @@ const ignore = require('metalsmith-ignore')
 const concat = require('metalsmith-concat')
 const copy = require('metalsmith-copy')
 const sass = require('metalsmith-sass')
+const babel = require('metalsmith-babel')
 const path = require('path')
 
 const POSTCSS_PLUGINS = []
@@ -37,6 +38,9 @@ metalsmith(__dirname)
   .use(ignore(['css/build.css']))
 
   // JS
+  .use(babel({
+    presets: ['es2015']
+  }))
   .use(concat({
     files: '**/*.js',
     output: 'js/build.js'

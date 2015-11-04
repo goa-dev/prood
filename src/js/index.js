@@ -1,3 +1,4 @@
-(function(){
-  console.log('HELLO!');
-})();
+(() => {
+  let a = 'var'
+  console.log(`HELLO - ${a}`)
+})()
