@@ -1,61 +1,61 @@
-/**
- * Dependencies
- */
-var branch = require('metalsmith-branch');
-var templates = require('metalsmith-templates');
-var metalsmith = require('metalsmith');
-var serve = require('metalsmith-serve');
-var markdown = require('metalsmith-markdown');
-var collections = require('metalsmith-collections');
-var excerpts = require('metalsmith-excerpts');
-var permalinks = require('metalsmith-permalinks');
-var autoprefixer = require('metalsmith-autoprefixer');
-var postcss = require('metalsmith-postcss');
-var fingerprint = require('metalsmith-fingerprint');
-var ignore = require('metalsmith-ignore');
-var concat = require('metalsmith-concat');
-var copy = require('metalsmith-copy');
-var path = require('path');
+const branch = require('metalsmith-branch')
+const templates = require('metalsmith-templates')
+const metalsmith = require('metalsmith')
+const serve = require('metalsmith-serve')
+const markdown = require('metalsmith-markdown')
+const collections = require('metalsmith-collections')
+const excerpts = require('metalsmith-excerpts')
+const permalinks = require('metalsmith-permalinks')
+const autoprefixer = require('metalsmith-autoprefixer')
+const postcss = require('metalsmith-postcss')
+const fingerprint = require('metalsmith-fingerprint')
+const ignore = require('metalsmith-ignore')
+const concat = require('metalsmith-concat')
+const copy = require('metalsmith-copy')
+const sass = require('metalsmith-sass')
+const babel = require('metalsmith-babel')
+const path = require('path')
 
-var plugins = [
-]
-var supported = {browsers: ['> 1%', 'last 2 versions', 'IE >= 9']}
+const POSTCSS_PLUGINS = []
 
-/**
- * Build
- */
 metalsmith(__dirname)
   .source('./src')
   .destination('./build')
 
   // CSS
+  .use(sass({
+    outputDir: function(originalPath) {
+      return originalPath.replace("sass", "css");
+    }
+  }))
   .use(concat({
-      files: '**/*.css',
-      output: 'css/build.css'
-    })
-  )
-  .use(autoprefixer(supported))
-  .use(postcss(plugins))
+    files: '**/*.css',
+    output: 'css/build.css'
+  }))
+  .use(autoprefixer({browsers: ['> 1%', 'last 2 versions']}))
+  .use(postcss(POSTCSS_PLUGINS))
   .use(fingerprint({pattern: ['css/build.css']}))
   .use(ignore(['css/build.css']))
 
   // JS
+  .use(babel({
+    presets: ['es2015']
+  }))
   .use(concat({
-      files: '**/*.js',
-      output: 'js/build.js'
-    })
-  )
+    files: '**/*.js',
+    output: 'js/build.js'
+  }))
+
   .use(fingerprint({pattern: ['js/build.js']}))
   .use(ignore(['js/build.js']))
 
   // IMG
   .use(copy({
-      pattern: '**/*.png',
-      transform: function(file) {
-        return path.join('./build', file)
-      }
-    })
-  )
+    pattern: '**/*.png',
+    transform: (file) => {
+      return path.join('./build', file)
+    }
+  }))
 
   .use(markdown())
   .use(excerpts())
@@ -67,15 +67,15 @@ metalsmith(__dirname)
     }
   }))
   .use(branch('posts/**/**.html')
-      .use(permalinks({
-        pattern: 'posts/:title',
-        relative: false
-      }))
+    .use(permalinks({
+      pattern: 'posts/:title',
+      relative: false
+    }))
   )
   .use(branch('!posts/**/**.html')
-      .use(branch('!index.md').use(permalinks({
-        relative: false
-      })))
+    .use(branch('!index.md').use(permalinks({
+      relative: false
+    })))
   )
   .use(templates({
     engine: 'jade'
@@ -88,10 +88,10 @@ metalsmith(__dirname)
   }))
 
   // Build site
-  .build(function(err){
+  .build((err) => {
     if (err) {
       throw err
     } else {
       console.log('Good, everything is ok')
     }
-  });
+  })

@@ -1,0 +1,2295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"fieldName"
+			],
+			[
+				"pro",
+				"processServerErrors"
+			],
+			[
+				"item",
+				"itemId"
+			],
+			[
+				"pref",
+				"preferredPayment"
+			],
+			[
+				"mark",
+				"markAsPreferred"
+			],
+			[
+				"inv",
+				"invoice_transaction"
+			],
+			[
+				"acco",
+				"account_amount"
+			],
+			[
+				"payme",
+				"payment_source_toptal_string"
+			],
+			[
+				"pae",
+				"parseInt"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"is-s",
+				"is-signup_content"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"vo",
+				"vote_buttons"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"las",
+				"lastStepText"
+			],
+			[
+				"step",
+				"stepBlocks"
+			],
+			[
+				"chang",
+				"changeJobType"
+			],
+			[
+				"get",
+				"getCurrentStep"
+			],
+			[
+				"curr",
+				"currentStepIndex"
+			],
+			[
+				"nex",
+				"nextStep"
+			],
+			[
+				"set",
+				"setCurrentStep"
+			],
+			[
+				"stpe",
+				"stepsCollection"
+			],
+			[
+				"getN",
+				"getNextStepName"
+			],
+			[
+				"proce",
+				"processForms"
+			],
+			[
+				"mat",
+				"matcher_type"
+			],
+			[
+				"colo",
+				"color_text_dark"
+			],
+			[
+				"lin",
+				"linear-gradient"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"tra",
+				"trackOptimizelyEvent"
+			],
+			[
+				"locati",
+				"locationParams"
+			],
+			[
+				"getIte",
+				"getItemsWhenTilesLoaded"
+			],
+			[
+				"getI",
+				"getItemsWhenTilesLoaded"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"rend",
+				"renderTable"
+			],
+			[
+				"getMa",
+				"getMapCenter"
+			],
+			[
+				"isN",
+				"isNearMe"
+			],
+			[
+				"event",
+				"eventsUrl"
+			],
+			[
+				"marker",
+				"markers"
+			],
+			[
+				"cluster",
+				"clusterCount"
+			],
+			[
+				"to",
+				"total_count"
+			],
+			[
+				"map",
+				"map_item_type"
+			],
+			[
+				"render",
+				"renderTemplate"
+			],
+			[
+				"items",
+				"itemsTemplates"
+			],
+			[
+				"getM",
+				"getMapCenter"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"getm",
+				"getMapCenter"
+			],
+			[
+				"clust",
+				"clusterData"
+			],
+			[
+				"clus",
+				"clusterData"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"next",
+				"nextItem"
+			],
+			[
+				"new",
+				"newOptions"
+			],
+			[
+				"loca",
+				"location_icon"
+			],
+			[
+				"rende",
+				"renderSpinner"
+			],
+			[
+				"dis",
+				"disableHistory"
+			],
+			[
+				"sho",
+				"shouldUpdate"
+			],
+			[
+				"zoom",
+				"zoomLevel"
+			],
+			[
+				"zoo",
+				"zoomLevel"
+			],
+			[
+				"debo",
+				"debouncedInit"
+			],
+			[
+				"net",
+				"network_map_details"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"target",
+				"targetMarker"
+			],
+			[
+				"tar",
+				"targetMarker"
+			],
+			[
+				"targ",
+				"targetMarker"
+			],
+			[
+				"mar",
+				"marker"
+			],
+			[
+				"ma",
+				"markerData"
+			],
+			[
+				"mess",
+				"messageButton"
+			],
+			[
+				"me",
+				"messageButton"
+			],
+			[
+				"pop",
+				"popupTemplate"
+			],
+			[
+				"map_",
+				"map_popup"
+			],
+			[
+				"init",
+				"initMarkers"
+			],
+			[
+				"ini",
+				"initClusterer"
+			],
+			[
+				"open",
+				"openMarkerPopup"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"flex-",
+				"flex-basis"
+			],
+			[
+				"reou",
+				"resource"
+			],
+			[
+				"key",
+				"keypress"
+			],
+			[
+				"alt",
+				"altIsPressed"
+			],
+			[
+				"is",
+				"isTextareaEmpty"
+			],
+			[
+				"toggle",
+				"toggleEditMode"
+			],
+			[
+				"tex",
+				"textareaChanged"
+			],
+			[
+				"incu",
+				"include"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"bra",
+				"brand-white"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"user",
+				"user_agent"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"paddin-",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"iln",
+				"inline-block"
+			],
+			[
+				"bg-c",
+				"background-color"
+			],
+			[
+				"t",
+				"text-decoration-line"
+			],
+			[
+				"grid-r",
+				"grid-row-inner"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"rec",
+				"reconciledAmount"
+			],
+			[
+				"ite",
+				"itemId"
+			],
+			[
+				"asso",
+				"Association"
+			],
+			[
+				"ass",
+				"associations"
+			],
+			[
+				"rem",
+				"removeAssociationPath"
+			],
+			[
+				"pre",
+				"previewImage"
+			],
+			[
+				"hande",
+				"handleDrop"
+			],
+			[
+				"drop",
+				"drop_area"
+			],
+			[
+				"va",
+				"validationResult"
+			],
+			[
+				"val",
+				"validatePhoto"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"vali",
+				"validationResult"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"MIN",
+				"MIN_WIDTH"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"MAX",
+				"MAX_HEIGHT"
+			],
+			[
+				"MA",
+				"MAX_WIDTH"
+			],
+			[
+				"file",
+				"fileReaderEvent"
+			],
+			[
+				"upload",
+				"uploadFileName"
+			],
+			[
+				"us",
+				"useOnlyPreview"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"font-st",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "const branch = require('metalsmith-branch')\nconst templates = require('metalsmith-templates')\nconst metalsmith = require('metalsmith')\nconst serve = require('metalsmith-serve')\nconst markdown = require('metalsmith-markdown')\nconst collections = require('metalsmith-collections')\nconst excerpts = require('metalsmith-excerpts')\nconst permalinks = require('metalsmith-permalinks')\nconst autoprefixer = require('metalsmith-autoprefixer')\nconst postcss = require('metalsmith-postcss')\nconst fingerprint = require('metalsmith-fingerprint')\nconst ignore = require('metalsmith-ignore')\nconst concat = require('metalsmith-concat')\nconst copy = require('metalsmith-copy')\nconst sass = require('metalsmith-sass')\nconst path = require('path')\n\nconst POSTCSS_PLUGINS = []\n\nmetalsmith(__dirname)\n  .source('./src')\n  .destination('./build')\n\n  // CSS\n  .use(concat({\n    files: '**/*.css',\n    output: 'css/build.css'\n  }))\n  .use(autoprefixer({browsers: ['> 1%', 'last 2 versions']}))\n  .use(postcss(POSTCSS_PLUGINS))\n  .use(fingerprint({pattern: ['css/build.css']}))\n  .use(ignore(['css/build.css']))\n\n  // JS\n  .use(concat({\n    files: '**/*.js',\n    output: 'js/build.js'\n  }))\n\n  .use(fingerprint({pattern: ['js/build.js']}))\n  .use(ignore(['js/build.js']))\n\n  // IMG\n  .use(copy({\n    pattern: '**/*.png',\n    transform: (file) => {\n      return path.join('./build', file)\n    }\n  }))\n\n  .use(markdown())\n  .use(excerpts())\n  .use(collections({\n    posts: {\n      pattern: 'posts/**/**.html',\n      sortBy: 'publishDate',\n      reverse: true\n    }\n  }))\n  .use(branch('posts/**/**.html')\n    .use(permalinks({\n      pattern: 'posts/:title',\n      relative: false\n    }))\n  )\n  .use(branch('!posts/**/**.html')\n    .use(branch('!index.md').use(permalinks({\n      relative: false\n    })))\n  )\n  .use(templates({\n    engine: 'jade'\n  }))\n\n  // Serve and watch for changes\n  .use(serve({\n    port: 8080,\n    verbose: true\n  }))\n\n  // Build site\n  .build((err) => {\n    if (err) {\n      throw err\n    } else {\n      console.log('Good, everything is ok')\n    }\n  })\n",
+			"file": "serve.js",
+			"file_size": 2013,
+			"file_write_time": 130911240040000000,
+			"settings":
+			{
+				"buffer_size": 2053,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/test-post/post.sass",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"last_filter": "bab",
+		"selected_items":
+		[
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"cucu",
+				"Set Syntax: Cucumber Steps"
+			],
+			[
+				"sl",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"bl",
+				"Git: Blame"
+			],
+			[
+				"slim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"Coffee: Lint"
+			],
+			[
+				"coffeel",
+				"Coffee: Lint"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ex",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"expa",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"t",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"twea",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"ejs",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"jst",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"b",
+				"Git: Blame"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"publ",
+				"Gist: Create Public Gist"
+			],
+			[
+				"public",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gists",
+				"Gist: Add File to Gist"
+			],
+			[
+				"gist",
+				"Package Control: Install Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"fromt",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"set h",
+				"Set Syntax: HTML"
+			],
+			[
+				"co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"for",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"sblimerepl ",
+				"SublimeREPL: Shell"
+			],
+			[
+				"set st ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"sche",
+				"Set Syntax: Scheme"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"run cs",
+				"Run CSScomb"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"run ",
+				"Run CSScomb"
+			],
+			[
+				"set syntax s",
+				"Set Syntax: Sass"
+			],
+			[
+				"run",
+				"Run CSScomb"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"run css",
+				"Run CSScomb"
+			],
+			[
+				"set syn sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"run c",
+				"Run CSScomb"
+			],
+			[
+				"set s",
+				"Set Syntax: Sass"
+			],
+			[
+				"r",
+				"Run CSScomb"
+			],
+			[
+				"ru",
+				"Run CSScomb"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"run cc",
+				"Run CSScomb"
+			],
+			[
+				"runcss",
+				"Run CSScomb"
+			],
+			[
+				"comb",
+				"Run CSScomb"
+			],
+			[
+				"set slim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"json ",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"enc",
+				"StringEncode: JSON Escape"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"can",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"up",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"sftp",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"SFTP",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"upda",
+				"Emmet: Update Image Size"
+			],
+			[
+				"sft",
+				"SFTP: Show Panel"
+			],
+			[
+				"fo",
+				"Format Code"
+			],
+			[
+				"ej",
+				"EJS: <% and %>"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"Tag:",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"set j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set s js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"image",
+				"Emmet: Update Image Size"
+			],
+			[
+				"ima",
+				"Emmet: Update Image Size"
+			],
+			[
+				"set e",
+				"Set Syntax: EJS (<% and %>)"
+			],
+			[
+				"les",
+				"Set Syntax: LESS"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"Pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"sca",
+				"Set Syntax: Scala"
+			],
+			[
+				"scal",
+				"Set Syntax: Scala"
+			],
+			[
+				"ss",
+				"SFTP: Show Panel"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"dis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lin",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"pr",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"p",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"Snippet: ",
+				"Snippet: console.log"
+			],
+			[
+				"JS",
+				"Set Syntax: JSON"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/paraboom/projects/prood",
+		"/Users/paraboom/projects/prood/src/posts",
+		"/Users/paraboom/projects/prood/src/posts/second-post",
+		"/Users/paraboom/projects/prood/src/posts/test-post",
+		"/Users/paraboom/projects/prood/templates"
+	],
+	"file_history":
+	[
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/jobs/components/job_wizard/index.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/billing/components/items/views/form.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/suggests/components/skills_fields/views/field.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/ui/ui-tag.sass",
+		"/Users/paraboom/work/toptal/app/decorators/concerns/credit_card.rb",
+		"/Users/paraboom/work/toptal/spec/decorators/billing_option_decorator_spec.rb",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/invoice_transactions/_form.html.slim",
+		"/Users/paraboom/work/toptal/spec/inputs/credit_card_picker_input_spec.rb",
+		"/Users/paraboom/work/toptal/app/inputs/credit_card_picker_input.rb",
+		"/Users/paraboom/work/toptal/app/views/shared/invoices/print.html.slim",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/invoices/show.html.slim",
+		"/Users/paraboom/work/toptal/app/decorators/invoice_decorator.rb",
+		"/Users/paraboom/work/toptal/app/decorators/invoice_transaction_decorator.rb",
+		"/Users/paraboom/work/toptal/spec/decorators/invoice_transaction_decorator_spec.rb",
+		"/Users/paraboom/work/toptal/app/views/shared/payments/print.html.slim",
+		"/Users/paraboom/work/toptal/app/decorators/payment_decorator.rb",
+		"/Users/paraboom/work/toptal/app/decorators/job_decorator.rb",
+		"/Users/paraboom/work/toptal/app/models/invoice.rb",
+		"/Users/paraboom/work/toptal/app/inputs/collection_radio_buttons_input.rb",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/base/ui/ui-radio.sass",
+		"/Users/paraboom/work/toptal/app/inputs/date_picker_input.rb",
+		"/Users/paraboom/work/toptal/config/initializers/simple_form.rb",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/cc_type.sass",
+		"/Users/paraboom/work/toptal/app/views/platform/company_space/billing_infos/forms/_credit_card.html.slim",
+		"/Users/paraboom/work/toptal/app/decorators/account_transaction_decorator.rb",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/ui/ui-radio.sass",
+		"/Users/paraboom/work/toptal/app/views/platform/company_space/jobs/form/_details_step.html.slim",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/shared/payments_and_payment_groups/_confirm_pay.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/billing/components/items/views/list.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/components/items/actions/items_list.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/components/items/views/item.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/components/items/view_models/items_list.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/components/editable_list/view_models/items_list.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/components/editable_list/actions/items_list.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/components/editable_list/views/_index.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/components/page/behaviors/ajax_steps_menu.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/components/page/behaviors/ajax_page.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/components/page/views/page.js.coffee",
+		"/Users/paraboom/work/toptal/app/controllers/platform/payment_options_controller.rb",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/components/editable_list/views/new_item.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/profile_wizard/index.js.coffee",
+		"/Users/paraboom/work/toptal/Gemfile",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/javascripts/public/services/ab_testing/bounce_modals.js.coffee",
+		"/Users/paraboom/work/toptal/app/controllers/concerns/bounce_modals_behavior.rb",
+		"/Users/paraboom/work/toptal/spec/decorators/invoice_decorator_spec.rb",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/ui/react_components/calendar/index.js.coffee.cjsx",
+		"/Users/paraboom/Downloads/Designer Autoresponder 2nd try.html",
+		"/Users/paraboom/work/toptal/.git/COMMIT_EDITMSG",
+		"/Users/paraboom/work/toptal/.git/rebase-merge/git-rebase-todo",
+		"/Users/paraboom/work/toptal/features/flows/payments.feature",
+		"/Users/paraboom/work/toptal/features/support/lib/pages/platform/regions/payments/add_payment_region.rb",
+		"/Users/paraboom/work/toptal/features/step_definitions/payments/payment_report_steps.rb",
+		"/Users/paraboom/work/toptal/features/payments/local_credits.feature",
+		"/Users/paraboom/work/toptal/app/views/vendor/_ouibounce_settings.html.slim",
+		"/Users/paraboom/work/toptal/app/views/vendor/_ouibounce_initializer.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/javascripts/public/components/layout/behaviors/user_signed_in.js.coffee",
+		"/Users/paraboom/work/toptal/testing/factories/invoices.rb",
+		"/Users/paraboom/work/toptal/app/decorators/billable_work_decorator.rb",
+		"/Users/paraboom/work/toptal/testing/factories/account_transactions.rb",
+		"/Users/paraboom/work/toptal/app/controllers/platform/staff_space/invoices_controller.rb",
+		"/Users/paraboom/work/toptal/app/controllers/concerns/respond_with_printable.rb",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/payments_form_panel.sass",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/global/global.sass",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/views/main_menu.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/nps_survey.sass",
+		"/Users/paraboom/work/toptal/app/views/platform/promotions/survey.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/promotions/views/survey.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/modals/behaviors/transaction_creation.js.coffee",
+		"/Users/paraboom/work/toptal/app/controllers/platform/staff_space/invoice_transactions_controller.rb",
+		"/Users/paraboom/work/toptal/app/view_models/invoice_transaction_creation_view_model.rb",
+		"/Users/paraboom/work/toptal/app/models/account.rb",
+		"/Users/paraboom/work/toptal/app/models/company.rb",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/base/blocks/details.sass",
+		"/Users/paraboom/work/toptal/app/views/platform/company_space/pending_engagements/_schedule_interview.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/panel_list.sass",
+		"/Users/paraboom/work/toptal/app/views/platform/company_space/pending_engagements/_review_candidate.html.slim",
+		"/Users/paraboom/work/toptal/app/views/platform/company_space/pending_engagements/show.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/views/pending_engagement.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/details.sass",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/shared/views/dynamic_content.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/talent/components/engagement_wizard/views/_index.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/shared/views/flash_messages.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/talent/components/engagement_wizard/views/availability.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/shared/behaviors/flash_messages_checks.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/platform/views/static_message.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/base/ui/ui-select.sass",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/ui/ui-select.sass",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/companies/new.html.slim",
+		"/Users/paraboom/work/toptal/spec/support/inputs.rb",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/companies/company_representatives/new.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/framework/base/class_modules/notifications.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/shared/utils/ajax_notifications.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/talent/components/engagement_wizard/index.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/shared/views/top_panel_messages.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/talent/components/engagement_wizard/views/next.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/shared/views/form.js.coffee",
+		"/Users/paraboom/work/toptal/engines/public/app/views/public/companies/_form_header.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/javascripts/public/components/companies_apply/views/companies_apply.js.coffee",
+		"/Users/paraboom/work/toptal/engines/public/app/views/public/companies/new.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/views/public/companies/_form_fields.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/views/public/companies/_new_design.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/views/public/shared/_clients_showcase_row.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/stylesheets/portal/blocks/signup/signup_new_design.sass",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/javascripts/public/services/ab_testing/companies_apply_page.js.coffee",
+		"/Users/paraboom/projects/gears_of_leo/phonelist.js",
+		"/Users/paraboom/Downloads/bee.js",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/modals/views/single_modal.js.coffee",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/javascripts/public/services/ab_testing_service.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/billing/components/nacha/views/_index.js.coffee",
+		"/Users/paraboom/work/toptal/engines/public/app/views/public/pages/home.html.slim",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/stylesheets/portal/blocks/modal/modal.sass",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/stylesheets/portal/blocks/signup/signup_social.sass",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/stylesheets/public/blocks/skill/skill_clients.sass",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/stylesheets/public/config/colors.sass",
+		"/Users/paraboom/work/toptal/config/locales/en.yml",
+		"/Users/paraboom/work/toptal/engines/public/app/assets/stylesheets/public/common/clients_showcase_row.sass",
+		"/Users/paraboom/work/toptal/app/controllers/platform/profiles/account_settings_controller.rb",
+		"/Users/paraboom/work/toptal/app/decorators/concerns/first_ach_methods.rb",
+		"/Users/paraboom/work/toptal/app/views/platform/company_space/invoices/index.html.slim",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/nacha_groups/invoices/_invoice.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/table.sass",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/base/ui/imports.sass",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/blocks/bill_item.sass",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/billing/components/bill_items/index.js.coffee",
+		"/Users/paraboom/work/toptal/app/assets/javascripts/platform/bundles/billing/components/nacha/index.js.coffee",
+		"/Users/paraboom/work/toptal/app/views/platform/staff_space/nacha_groups/invoices/index.html.slim",
+		"/Users/paraboom/work/toptal/app/assets/stylesheets/platform/ui/ui-vote.sass",
+		"/Users/paraboom/work/toptal/app/decorators/portfolio_vote_decorator.rb"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.rb",
+			"",
+			"*.js.coffee",
+			"",
+			"(function() {\n  // Will be executed once only \n*.js.coffee",
+			"",
+			"*.sass",
+			"",
+			"*.sass",
+			"",
+			"*.sass",
+			"",
+			"*.yml",
+			"",
+			"*.html.slim",
+			"",
+			"*.yml",
+			"",
+			"*.html.slim",
+			"",
+			"*.html.slim",
+			"",
+			"*.rb",
+			"",
+			"*.html.slim",
+			"",
+			"*.js.coffee",
+			"",
+			"*.html.slim",
+			"",
+			"/Users/paraboom/toptal/engines/public/app/assets/javascripts/public/components",
+			"/Users/paraboom/toptal/engines/public/app/assets/javascripts/public",
+			"",
+			"*.sass",
+			"",
+			"*.html.slim",
+			"",
+			"*.html.slim",
+			"",
+			"*.rb",
+			"",
+			"*.sass",
+			"",
+			"*.html.slim",
+			"",
+			"*.rb",
+			"",
+			"*.html.slim",
+			"",
+			"*.rb",
+			"",
+			"*.sass",
+			"",
+			"*.sass",
+			"*.rb",
+			"",
+			"*.html.slim",
+			"",
+			"/Users/paraboom/toptal/app/views/platform/shared/status_flow",
+			"",
+			"*.coffee",
+			"",
+			"/Users/paraboom/toptal/features",
+			"",
+			"/Users/paraboom/toptal/features",
+			"",
+			"*.**_spec.rb",
+			"*.*_spec.rb",
+			"",
+			"*.js.coffee",
+			"",
+			"*.js.coffee",
+			"js.coffee",
+			"",
+			"*.sass",
+			"",
+			"*.sass",
+			"",
+			"*.sass",
+			"*.css.sass",
+			"*.less.css",
+			"*.less",
+			"",
+			"*.slim",
+			"",
+			"*.css.sass",
+			"*.less",
+			"",
+			"*.html.slim",
+			"",
+			"*.js.coffee",
+			"",
+			"/Users/paraboom/toptal/features",
+			"/Users/paraboom/toptal/features/support",
+			"*.rb",
+			"",
+			"*.js",
+			"",
+			"/Users/paraboom/toptal/app/assets/javascripts/platform/bundles/ui/react_components/calendar",
+			"",
+			"*.html.slim",
+			"",
+			"*.slim",
+			"",
+			"/Users/paraboom/toptal/app/assets/javascripts/platform/bundles/modals/behaviors",
+			"",
+			"/Users/paraboom/toptal/app/assets/javascripts/platform/bundles/modals",
+			"",
+			"*.haml",
+			"",
+			"*.js",
+			"/Users/paraboom/toptal/",
+			"/Users/paraboom/toptal/features",
+			"/Users/paraboom/toptal/",
+			"/Users/paraboom/toptal/app/assets/javascripts/platform/bundles/tasks",
+			"/Users/paraboom/toptal/app/assets/javascripts/platform/bundles/tasks/components/task",
+			"/Users/paraboom/toptal/engines/public/app",
+			"*.rb",
+			"",
+			"*.rb",
+			"/Users/paraboom/toptal/",
+			"/Users/paraboom/toptal/app",
+			"/Users/paraboom/toptal/app/",
+			"/Users/paraboom/toptal/app/assets/javascripts",
+			"/Users/paraboom/toptal/app/assets/javascripts/platform/bundles/tasks/components/task",
+			"/Users/paraboom/toptal",
+			"*.*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".fail",
+			"errorsManager",
+			"showErrors",
+			"json.errors",
+			"publishErrors",
+			"showErrors",
+			"showCustomErrors",
+			"processErrorSubmit",
+			"validateField",
+			"@emit",
+			"runValidations",
+			"validateThat",
+			"processBeforeSubmit",
+			"form:before",
+			"processErrorSubmit",
+			"form:err",
+			"submitCard",
+			"fetchStripeToken",
+			"showErrors",
+			"submitCard",
+			"number_with_preference",
+			"loat",
+			"(Primary)",
+			"last_numbers",
+			"paid_details",
+			"payment_method",
+			"brand_with_number",
+			"client_payment_method",
+			"payment_method",
+			"print_payment_method",
+			"client_payment_method",
+			"paid_details",
+			"client_payment_method",
+			"paid_details",
+			"payment_method",
+			"for-invoice_transactions",
+			"brand_with_number",
+			"client_payment_method",
+			"payment_method",
+			"client_payment_method",
+			"last4",
+			"client_payment_method",
+			"via",
+			"cc_type-card",
+			"client_payment_method",
+			"paid_details",
+			"amount_string",
+			".term",
+			"credit_cards",
+			"radio_label_wrap",
+			"@builder.input",
+			"reason",
+			"job",
+			"status_color",
+			"brand_with_number",
+			"payment_method",
+			"postpone_button",
+			"status_color",
+			"def payment_method",
+			"payment_method",
+			"for-invoice_transactions",
+			":work_type_radio_buttons",
+			":work_type",
+			"collection_select",
+			"credit_card_picker",
+			"Company credit card will be charg",
+			"apply toptal",
+			".cc_type-card",
+			"cc-",
+			"data",
+			"conso",
+			"preferred",
+			"provideNewItemData",
+			"item_data_fetched",
+			"updateItem",
+			"refreshWithHtml",
+			"preferred",
+			"make_preferred",
+			"pref",
+			"preferr",
+			"pref",
+			"renderNewPage",
+			"openPageByPath",
+			"restoreNewItemForms",
+			"item_data_fetched",
+			"provideItemData",
+			"selected_item_changed",
+			"@$el.data",
+			"processItemSubmit",
+			"default_path",
+			"processItemSubmit",
+			"provideItemData",
+			"provideNewItemData",
+			"item_data_fetched",
+			"getFormUrl",
+			"showItemForm",
+			"showNewItemForm",
+			"showForm",
+			"@data",
+			"provideNewItemData",
+			"item_data_fetched",
+			"updateItem",
+			"profile_wizard:steps_fetched",
+			"confirmDelete",
+			"bounce_modal_settings",
+			"bounceModalSettings",
+			"Due",
+			"toptal_credit",
+			"toptal_credit_radio",
+			"Upon Receipt",
+			"peri",
+			"I open HTML report for payment",
+			"if",
+			"bounceModalSettings",
+			"bounce_modal_settings",
+			"debug",
+			"BounceModals",
+			"disableBounceModals",
+			"BounceModal",
+			"quality matters",
+			"due_string",
+			"created_on",
+			"DEFAULT_DUE_PERIOD",
+			"due_date",
+			"date",
+			"due_date",
+			"basic_bill_invoice",
+			"date"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\n\\n\\n\\n\\n",
+			"\\n",
+			"/n",
+			"\\n",
+			"component-tasks-task",
+			"js-view",
+			".reviews_column",
+			".reviews_column-wrapper",
+			".reviews_header-description",
+			".developers_card",
+			".developers",
+			".developer_card",
+			".resources_title",
+			".resources",
+			".reviews-header_description",
+			".reviews_story-wrapper",
+			".reviews_story-challenge_icon",
+			".reviews_story-text_body",
+			".reviews_story-text_title",
+			".reviews_story",
+			".reviews_person",
+			".reviews_join",
+			".reviews_clients",
+			"reviews-story",
+			".reviews-story",
+			"reviews_list",
+			"src",
+			"\" +\\n",
+			"\\n",
+			"/n",
+			"1",
+			"\\n",
+			"fotorama_glitch",
+			"data-loop=\"true\" data-arrows=\"false\"",
+			"column-4 column",
+			"column-2 column",
+			"layout__container",
+			"column-1 column",
+			"",
+			"icn_general_2-1.png",
+			"\"header__linksItem list__item\"",
+			"popup-little-content popup-animation",
+			"social-container popup-animation",
+			"social-button",
+			".attrs",
+			"to_Model",
+			".attrs",
+			"attrs",
+			"cloneIndex",
+			"${_uid}",
+			"\\'",
+			"'",
+			"",
+			"a",
+			"\"",
+			"cp $1 ../../pics",
+			" \"humidity\": \"$1\", \"pic\": \"$2\"",
+			" \"temp\": \"$1\",",
+			"\"season\": \"$1\",",
+			"\"season\": \"$2\",",
+			"{$1},",
+			"{$1}",
+			"",
+			"\\n",
+			"",
+			"/media/i/",
+			".PGU-Kladr",
+			"zakaz@ginger-house.ru",
+			"<p class=\"title\">{{ item.title }}</p>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								768,
+								768
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "serve.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								700,
+								700
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 203.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/posts/test-post/post.sass",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 229.0
+	},
+	"pinned_build_system": "",
+	"project": "prood.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"errorsmana",
+				"app/assets/javascripts/platform/bundles/shared/utils/errors_manager.js.coffee"
+			],
+			[
+				"form.js",
+				"app/assets/javascripts/platform/bundles/billing/components/items/views/form.js.coffee"
+			],
+			[
+				"sharedform.js",
+				"app/assets/javascripts/platform/bundles/shared/views/form.js.coffee"
+			],
+			[
+				"payment_methods",
+				"app/assets/javascripts/platform/bundles/billing/components/payment_methods/collections/payment_methods.js.coffee"
+			],
+			[
+				"ui-",
+				"app/assets/stylesheets/platform/ui/ui-tag.sass"
+			],
+			[
+				"invoice_tra",
+				"spec/decorators/invoice_transaction_decorator_spec.rb"
+			],
+			[
+				"credit_card",
+				"app/decorators/concerns/credit_card.rb"
+			],
+			[
+				"invoice_tr",
+				"app/decorators/invoice_transaction_decorator.rb"
+			],
+			[
+				"credit_card_p",
+				"spec/inputs/credit_card_picker_input_spec.rb"
+			],
+			[
+				"cred",
+				"app/inputs/credit_card_picker_input.rb"
+			],
+			[
+				"credit_card_",
+				"spec/inputs/credit_card_picker_input_spec.rb"
+			],
+			[
+				"simpleform",
+				"config/initializers/simple_form.rb"
+			],
+			[
+				"credit_car",
+				"app/inputs/credit_card_picker_input.rb"
+			],
+			[
+				"views/platform/staff_space/invoice_transactions/_form.html.slim",
+				"app/views/platform/staff_space/invoice_transactions/_form.html.slim"
+			],
+			[
+				"job_d",
+				"app/decorators/job_decorator.rb"
+			],
+			[
+				"invoice_de",
+				"app/decorators/invoice_decorator.rb"
+			],
+			[
+				"invoice",
+				"app/models/invoice.rb"
+			],
+			[
+				"invoiceshow",
+				"app/views/platform/staff_space/invoices/show.html.slim"
+			],
+			[
+				"transactionde",
+				"app/decorators/account_transaction_decorator.rb"
+			],
+			[
+				"radio_buttonsrb",
+				"app/inputs/collection_radio_buttons_input.rb"
+			],
+			[
+				"ui-ra",
+				"app/assets/stylesheets/platform/ui/ui-radio.sass"
+			],
+			[
+				"collectionradiobuttonsinput",
+				"app/inputs/collection_radio_buttons_input.rb"
+			],
+			[
+				"app/inputs/credit_card_picker_input.rb",
+				"app/inputs/credit_card_picker_input.rb"
+			],
+			[
+				"cc_ty",
+				"app/assets/stylesheets/platform/blocks/cc_type.sass"
+			],
+			[
+				"platform/bundles/billing/components/items/views/list.js.coffee",
+				"app/assets/javascripts/platform/bundles/billing/components/items/views/list.js.coffee"
+			],
+			[
+				"components/items/actions/items_list.js.coffee",
+				"app/assets/javascripts/platform/bundles/profile_wizard/components/items/actions/items_list.js.coffee"
+			],
+			[
+				"platform/payment_options_controller.rb",
+				"app/controllers/platform/payment_options_controller.rb"
+			],
+			[
+				"profile_wizardin",
+				"app/assets/javascripts/platform/bundles/profile_wizard/index.js.coffee"
+			],
+			[
+				"bounce",
+				"engines/public/app/assets/javascripts/public/services/ab_testing/bounce_modals.js.coffee"
+			],
+			[
+				"index.jsx",
+				"app/assets/javascripts/platform/bundles/ui/react_components/calendar/index.js.coffee.cjsx"
+			],
+			[
+				"app/decorators/invoice_decorator.rb",
+				"app/decorators/invoice_decorator.rb"
+			],
+			[
+				"spec/decorators/invoice_decorator_spec.rb",
+				"spec/decorators/invoice_decorator_spec.rb"
+			],
+			[
+				"pages/platform/regions/payments/add_payment_region.rb",
+				"features/support/lib/pages/platform/regions/payments/add_payment_region.rb"
+			],
+			[
+				"features/payments/local_credits.feature",
+				"features/payments/local_credits.feature"
+			],
+			[
+				"features/flows/payments.feature",
+				"features/flows/payments.feature"
+			],
+			[
+				"features/step_definitions/payments/payment_report_steps.rb",
+				"features/step_definitions/payments/payment_report_steps.rb"
+			],
+			[
+				"bound",
+				"app/controllers/concerns/bounce_modals_behavior.rb"
+			],
+			[
+				"invoices",
+				"testing/factories/invoices.rb"
+			],
+			[
+				"app/views/shared/invoices/print.html.slim",
+				"app/views/shared/invoices/print.html.slim"
+			],
+			[
+				"account_tra",
+				"testing/factories/account_transactions.rb"
+			],
+			[
+				"invoice_transaction_decorator_spec.rb",
+				"spec/decorators/invoice_transaction_decorator_spec.rb"
+			],
+			[
+				"invoicede",
+				"app/decorators/invoice_decorator.rb"
+			],
+			[
+				"invoices_dec",
+				"app/decorators/invoice_transaction_decorator.rb"
+			],
+			[
+				"invoices_controller",
+				"app/controllers/platform/staff_space/invoices_controller.rb"
+			],
+			[
+				"main_menu",
+				"app/assets/javascripts/platform/bundles/platform/views/main_menu.js.coffee"
+			],
+			[
+				"invoice_transaction_de",
+				"spec/decorators/invoice_transaction_decorator_spec.rb"
+			],
+			[
+				"paymnet.sass",
+				"app/assets/stylesheets/platform/blocks/payments_form_panel.sass"
+			],
+			[
+				"survey.js",
+				"app/assets/javascripts/platform/bundles/promotions/views/survey.js.coffee"
+			],
+			[
+				"nps",
+				"app/assets/stylesheets/platform/blocks/nps_survey.sass"
+			],
+			[
+				"invoicetransactioncreationviewmodel",
+				"app/view_models/invoice_transaction_creation_view_model.rb"
+			],
+			[
+				"compa",
+				"app/models/company.rb"
+			],
+			[
+				"acco",
+				"app/models/account.rb"
+			],
+			[
+				"panellist",
+				"app/assets/stylesheets/platform/blocks/panel_list.sass"
+			],
+			[
+				"details",
+				"app/assets/stylesheets/base/blocks/details.sass"
+			],
+			[
+				"pending_engagement.js",
+				"app/assets/javascripts/platform/bundles/platform/views/pending_engagement.js.coffee"
+			],
+			[
+				"dynamic_content",
+				"app/assets/javascripts/platform/bundles/shared/views/dynamic_content.js.coffee"
+			],
+			[
+				"flashmessageschecks",
+				"app/assets/javascripts/platform/bundles/shared/behaviors/flash_messages_checks.js.coffee"
+			],
+			[
+				"message.js.coffee",
+				"app/assets/javascripts/platform/bundles/shared/views/flash_message.js.coffee"
+			],
+			[
+				"message.js",
+				"app/assets/javascripts/platform/bundles/platform/views/static_message.js.coffee"
+			],
+			[
+				"platform/bundles/talent/components/engagement_wizard/views/availability.js.coffee",
+				"app/assets/javascripts/platform/bundles/talent/components/engagement_wizard/views/availability.js.coffee"
+			],
+			[
+				"input",
+				"spec/support/inputs.rb"
+			],
+			[
+				"ui-selec",
+				"app/assets/stylesheets/base/ui/ui-select.sass"
+			],
+			[
+				"ui-sel",
+				"app/assets/stylesheets/platform/ui/ui-select.sass"
+			],
+			[
+				"companynew",
+				"app/views/platform/staff_space/companies/company_representatives/new.html.slim"
+			],
+			[
+				"ui-se",
+				"app/assets/stylesheets/platform/ui/ui-select.sass"
+			],
+			[
+				"formjs.co",
+				"app/assets/javascripts/platform/bundles/shared/views/form.js.coffee"
+			],
+			[
+				"engagementwizard",
+				"app/assets/javascripts/platform/bundles/talent/components/engagement_wizard/index.js.coffee"
+			],
+			[
+				"clients_showcase_row",
+				"engines/public/app/views/public/shared/_clients_showcase_row.html.slim"
+			],
+			[
+				"views/public/companies/new.html.slim",
+				"engines/public/app/views/public/companies/new.html.slim"
+			],
+			[
+				"abtest",
+				"engines/public/app/assets/javascripts/public/services/ab_testing_service.js.coffee"
+			],
+			[
+				"bundles/billing/components/nacha/views/_index.js.coffee",
+				"app/assets/javascripts/platform/bundles/billing/components/nacha/views/_index.js.coffee"
+			],
+			[
+				"colors.sass",
+				"engines/public/app/assets/stylesheets/public/config/colors.sass"
+			],
+			[
+				"color.sass",
+				"engines/public/app/assets/stylesheets/public/config/colors.sass"
+			],
+			[
+				"skill_cli",
+				"engines/public/app/assets/stylesheets/public/blocks/skill/skill_clients.sass"
+			],
+			[
+				"abts",
+				"engines/public/app/assets/javascripts/public/services/ab_testing_service.js.coffee"
+			],
+			[
+				"hom",
+				"engines/public/app/views/public/pages/home.html.slim"
+			],
+			[
+				"impo",
+				"app/assets/stylesheets/base/ui/imports.sass"
+			],
+			[
+				"billingnacha",
+				"app/assets/javascripts/platform/bundles/billing/components/nacha/index.js.coffee"
+			],
+			[
+				"firstachmethods",
+				"app/decorators/concerns/first_ach_methods.rb"
+			],
+			[
+				"portfolio_vote_decorator.rb",
+				"app/decorators/portfolio_vote_decorator.rb"
+			],
+			[
+				"uiv",
+				"app/assets/stylesheets/platform/ui/ui-vote.sass"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"ui-v",
+				"app/assets/stylesheets/platform/ui/ui-vote.sass"
+			],
+			[
+				"ui-te",
+				"app/assets/stylesheets/base/ui/ui-textarea.sass"
+			],
+			[
+				"tooltip",
+				"app/assets/javascripts/platform/bundles/platform/behaviors/tooltips.js.coffee"
+			],
+			[
+				"vote",
+				"apq/actions/talent/portfolio_vote.rb"
+			],
+			[
+				"modelvo",
+				"app/models/portfolio_vote.rb"
+			],
+			[
+				"bundles/shared/utils/errors_manager.js.coffee",
+				"app/assets/javascripts/platform/bundles/shared/utils/errors_manager.js.coffee"
+			],
+			[
+				"error",
+				"app/assets/javascripts/platform/bundles/shared/utils/errors_manager.js.coffee"
+			],
+			[
+				"big_b",
+				"app/assets/stylesheets/platform/blocks/big_button.sass"
+			],
+			[
+				"big_button",
+				"app/assets/stylesheets/base/blocks/big_button.sass"
+			],
+			[
+				"small",
+				"app/assets/stylesheets/platform/blocks/small_button.sass"
+			],
+			[
+				"ui-rad",
+				"app/assets/stylesheets/base/ui/ui-radio.sass"
+			],
+			[
+				"ui-r",
+				"app/assets/stylesheets/base/ui/ui-radio.sass"
+			],
+			[
+				"autoex",
+				"app/assets/javascripts/platform/bundles/ui/views/autoexpand.js.coffee"
+			],
+			[
+				"uiauto",
+				"app/assets/javascripts/platform/bundles/ui/views/autoexpand.js.coffee"
+			],
+			[
+				"html.slim",
+				"app/views/devise/passwords/new.html.slim"
+			],
+			[
+				"html.sl",
+				"app/views/errors/403.html.slim"
+			],
+			[
+				"voteinpu",
+				"app/inputs/vote_choice_input.rb"
+			],
+			[
+				"routes",
+				"engines/public/config/routes.rb"
+			],
+			[
+				"basecon",
+				"app/controllers/platform/base_controller.rb"
+			],
+			[
+				"abtestsboun",
+				"engines/public/app/assets/javascripts/public/services/ab_testing/bounce_modals.js.coffee"
+			],
+			[
+				"projects_contro",
+				"engines/public/app/controllers/public/project_managers_controller.rb"
+			],
+			[
+				"bounce_mod",
+				"app/controllers/concerns/bounce_modals_behavior.rb"
+			],
+			[
+				"abtestbouncemodals",
+				"engines/public/app/assets/javascripts/public/services/ab_testing/bounce_modals.js.coffee"
+			],
+			[
+				"en.",
+				"engines/blog/config/locales/en.yml"
+			],
+			[
+				"engines/community/app/decorators/community_event_decorator.rb",
+				"engines/community/app/decorators/community_event_decorator.rb"
+			],
+			[
+				"usernew",
+				"engines/public/app/views/public/user_roles/new.html.slim"
+			],
+			[
+				"skill_battlehtml",
+				"engines/skill_vs_skill/app/views/public/skill_battles/index.html.slim"
+			],
+			[
+				"talent_partnersnew",
+				"engines/public/app/views/public/talent_partners/new.html.slim"
+			],
+			[
+				"leaders.html",
+				"engines/public/app/views/public/leaders/index.html.slim"
+			],
+			[
+				"community_event",
+				"engines/community/app/decorators/community_event_decorator.rb"
+			],
+			[
+				"eventsshow",
+				"engines/community/app/views/community/community_events/show.html.slim"
+			],
+			[
+				"companiessigh",
+				"engines/public/app/views/public/companies/_social_sign_up.html.slim"
+			],
+			[
+				"why",
+				"engines/public/app/views/public/pages/why.html.slim"
+			],
+			[
+				"what.",
+				"engines/public/app/views/public/pages/what.html.slim"
+			],
+			[
+				"tos.",
+				"engines/public/app/views/public/pages/tos.html.slim"
+			],
+			[
+				"top3",
+				"engines/public/app/views/public/pages/top3percent.html.slim"
+			],
+			[
+				"privac",
+				"engines/public/app/views/public/pages/privacy.html.slim"
+			],
+			[
+				"how.",
+				"engines/public/app/views/public/pages/how.html.slim"
+			],
+			[
+				"faq.",
+				"engines/public/app/views/public/pages/faq.html.slim"
+			],
+			[
+				"developerstestimo",
+				"engines/public/app/views/public/developers/testimonials.html.slim"
+			],
+			[
+				"requirements",
+				"engines/public/app/views/public/developers/requirements.html.slim"
+			],
+			[
+				"communityhtml",
+				"engines/public/app/views/public/pages/community.html.slim"
+			],
+			[
+				"communityindex",
+				"engines/community/app/views/community/community_events/index.html.slim"
+			],
+			[
+				"clients.htm",
+				"engines/public/app/views/public/pages/clients.html.slim"
+			],
+			[
+				"posts/ine",
+				"engines/blog/app/views/public/posts/index.html.slim"
+			],
+			[
+				"layouts/public/title",
+				"engines/public/app/views/layouts/public/_title.html.slim"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 914.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
