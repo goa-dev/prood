@@ -12,6 +12,7 @@ const fingerprint = require('metalsmith-fingerprint')
 const ignore = require('metalsmith-ignore')
 const concat = require('metalsmith-concat')
 const copy = require('metalsmith-copy')
+const sass = require('metalsmith-sass')
 const path = require('path')
 
 const POSTCSS_PLUGINS = []
@@ -21,6 +22,11 @@ metalsmith(__dirname)
   .destination('./build')
 
   // CSS
+  .use(sass({
+    outputDir: function(originalPath) {
+      return originalPath.replace("sass", "css");
+    }
+  }))
   .use(concat({
     files: '**/*.css',
     output: 'css/build.css'
